@@ -1,5 +1,3 @@
-# Spotify - my favorite artists/songs
----
 ## Project Description
 
 This is a side-project about exploring Spotify data. Some of initial ideas are as follows:

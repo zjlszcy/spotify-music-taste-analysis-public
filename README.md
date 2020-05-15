@@ -1,5 +1,3 @@
-# Spotify - my favorite artists/songs
----
 ## Project Description
 
 This is a side-project about exploring Spotify data. Some of initial ideas are as follows:
@@ -14,9 +12,11 @@ This is a side-project about exploring Spotify data. Some of initial ideas are a
 
 - Learn to build a personalized music recommender
 
-- Try creating some interesting word clouds for fun.
+- Build package for the music taste analysis
 
   
+
+
 
 ### Audio Feauture Description
 

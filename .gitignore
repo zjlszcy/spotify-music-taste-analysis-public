@@ -126,3 +126,4 @@ dmypy.json
 
 # Customized
 .DS_Store
+reports/
